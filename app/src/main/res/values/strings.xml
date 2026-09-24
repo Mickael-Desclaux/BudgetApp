@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="widget_name">Budget – reste du mois</string>
+    <string name="widget_description">Somme restante à dépenser ce mois-ci et ajout rapide d\'une dépense</string>
+</resources>
